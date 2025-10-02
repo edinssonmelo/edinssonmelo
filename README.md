@@ -13,7 +13,7 @@
 
 
 ### 🚀 About Me
-I’m an Sr Mobile Developer. I love craft systems that keep improving. I’ve also launched my own projects and worked as a freelancer.
+I’m an Sr Software Engineer. I love craft systems that keep improving. I’ve also launched my own projects and worked as a freelancer.
 
 - **💼 Currently working on**: FintechApp.  
 - **🌱 Currently learning**: Agentic AI, Automation Workflows, n8n.  
