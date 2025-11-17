@@ -99,10 +99,29 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinssonmelo&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edinssonmelo&theme=algolia&no-frame=true&column=6&margin-w=15" alt="Trophies" />
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+
+  <!-- GitHub Streak -->
+  <img width="48%" 
+       src="https://streak-stats.demolab.com/?user=edinssonmelo&theme=react&hide_border=false" 
+       alt="GitHub streak" />
+
+  <!-- GitHub Stats oficial (mirror estable) -->
+  <img width="48%"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edinssonmelo&show_icons=true&theme=react&hide_border=false" 
+       alt="GitHub Stats" />
+
 </p>
+
+<!-- Lenguajes más usados (mirror estable) -->
+<p align="left">
+  <img width="48%"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edinssonmelo&layout=compact&langs_count=8&theme=react&hide_border=false" 
+       alt="Top Languages" />
+</p>
+
 
 ---
 
