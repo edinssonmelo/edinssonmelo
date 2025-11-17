@@ -79,15 +79,6 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-![GitHub followers](https://img.shields.io/github/followers/edinssonmelo?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-![GitHub User's stars](https://img.shields.io/github/stars/edinssonmelo?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=edinssonmelo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edinssonmelo&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=edinssonmelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
@@ -96,6 +87,21 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edinssonmelo&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinssonmelo&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=edinssonmelo&theme=algolia&no-frame=true&column=6&margin-w=15" alt="Trophies" />
 </p>
 
 ---
