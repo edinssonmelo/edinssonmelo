@@ -77,19 +77,28 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 
 </div>
 
- **<h3 align="left">GitHub Stats</h3>**
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Mackenzie-98&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mackenzie-98&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+
+  <!-- GitHub Streak (mirror estable) -->
+  <img width="48%" 
+       src="https://streak-stats.demolab.com/?user=Mackenzie-98&theme=react&hide_border=false" 
+       alt="GitHub streak" />
+
+  <!-- GitHub Stats oficial -->
+  <img width="48%"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mackenzie-98&show_icons=true&theme=react&hide_border=false" 
+       alt="GitHub Stats" />
+
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mackenzie-98&title=MultipleLang,Experience,Repositories,Commits,Stars,Issues,PullRequest" alt="GitHub Trophies" />
+<!-- Lenguajes más usados (mirror estable) -->
+<p align="left">
+  <img width="48%"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mackenzie-98&layout=compact&langs_count=8&theme=react&hide_border=false" 
+       alt="Top Languages" />
 </p>
-
 
 ---
 
