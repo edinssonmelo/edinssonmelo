@@ -79,9 +79,13 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 
 <h3 align="left">📊 GitHub Stats</h3>
 
+<h3 align="left">📊 GitHub Stats</h3>
+
+![GitHub followers](https://img.shields.io/github/followers/edinssonmelo?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![GitHub User's stars](https://img.shields.io/github/stars/edinssonmelo?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edinssonmelo&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=edinssonmelo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
