@@ -96,15 +96,18 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
+### 🎯 Achievements
+
 <p align="left">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edinssonmelo&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-blue?style=for-the-badge&logo=github" alt="commits"/>
+  <img src="https://img.shields.io/badge/Total%20Stars-50%2B-yellow?style=for-the-badge&logo=github" alt="stars"/>
+  <img src="https://img.shields.io/badge/Repositories-20%2B-green?style=for-the-badge&logo=github" alt="repos"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-100%2B-purple?style=for-the-badge&logo=github" alt="prs"/>
 </p>
 
-### 📈 Contribution Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinssonmelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=edinssonmelo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
-
 ---
 
 ### Support Me
