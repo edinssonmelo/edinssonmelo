@@ -91,44 +91,19 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+<p align="left">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edinssonmelo&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinssonmelo&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-
-  <!-- GitHub Streak -->
-  <img width="48%" 
-       src="https://streak-stats.demolab.com/?user=edinssonmelo&theme=react&hide_border=false" 
-       alt="GitHub streak" />
-
-  <!-- GitHub Stats oficial (mirror estable) -->
-  <img width="48%"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edinssonmelo&show_icons=true&theme=react&hide_border=false" 
-       alt="GitHub Stats" />
-
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edinssonmelo&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- Lenguajes más usados (mirror estable) -->
+### 📈 Contribution Graph
 <p align="left">
-  <img width="48%"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edinssonmelo&layout=compact&langs_count=8&theme=react&hide_border=false" 
-       alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinssonmelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edinssonmelo&theme=onestar&margin-w=8&row=1&column=7" 
-       alt="GitHub Trophies" />
-</p>
-
 
 ---
 
