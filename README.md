@@ -100,6 +100,14 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
        alt="Top Languages" />
 </p>
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mackenzie-98&theme=onestar&margin-w=8&row=1&column=7" 
+       alt="GitHub Trophies" />
+</p>
+
+
 ---
 
 ### Support Me
