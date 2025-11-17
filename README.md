@@ -93,9 +93,6 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
   <img src="https://img.shields.io/badge/Pull%20Requests-100%2B-purple?style=for-the-badge&logo=github" alt="prs"/>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=edinssonmelo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
 ---
 
 ### Support Me
