@@ -80,33 +80,19 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-
-  <!-- GitHub Streak (mirror estable) -->
-  <img width="48%" 
-       src="https://streak-stats.demolab.com/?user=Mackenzie-98&theme=react&hide_border=false" 
-       alt="GitHub streak" />
-
-  <!-- GitHub Stats oficial -->
-  <img width="48%"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mackenzie-98&show_icons=true&theme=react&hide_border=false" 
-       alt="GitHub Stats" />
-
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mackenzie-98&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mackenzie-98&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-<!-- Lenguajes más usados (mirror estable) -->
 <p align="left">
-  <img width="48%"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mackenzie-98&layout=compact&langs_count=8&theme=react&hide_border=false" 
-       alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mackenzie-98&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mackenzie-98&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mackenzie-98&theme=onestar&margin-w=8&row=1&column=7" 
-       alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mackenzie-98&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
-
 
 ---
 
