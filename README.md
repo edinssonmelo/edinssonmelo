@@ -82,7 +82,7 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 <p align="left">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinssonmelo&layout=compact&theme=radical)
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=edinssonmelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=radical&rank_icon=github&show=reviews,prs_merged_percentage)
 </p>
 
 ### 🎯 Achievements
