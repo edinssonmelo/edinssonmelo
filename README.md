@@ -87,10 +87,6 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true)
 
-## 🇨🇴 Ranking en Colombia
-
-[![committers.top badge](https://user-badge.committers.top/colombia_private/edinssonmelo.svg)](https://user-badge.committers.top/colombia_private/edinssonmelo)
-
 </p>
 
 ### 🎯 Achievements
