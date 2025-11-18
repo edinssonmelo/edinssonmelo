@@ -75,6 +75,12 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma">
 
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?logo=spring&logoColor=white" height="28" alt="Spring WebFlux">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="28" alt="Next.js">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase">
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white" height="28" alt="Framer">
+
+
 </div>
 
 <h3 align="left">📊 GitHub Stats</h3>
