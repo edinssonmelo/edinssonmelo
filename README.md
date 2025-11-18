@@ -80,7 +80,8 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs?username=edinssonmelo](https://github-readme-stats.vercel.app/api/top-langs/?username=edinssonmelo)&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinssonmelo&layout=compact&theme=radical)
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=edinssonmelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
