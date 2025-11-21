@@ -94,7 +94,7 @@ I’m a Software Engineer focused on AI-first solutions. I help people build sof
 
 <p align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edinssonmelo&show_icons=true&theme=radical&rank_icon=percentile)
 
 </p>
 
