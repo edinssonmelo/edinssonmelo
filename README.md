@@ -15,7 +15,7 @@
 
 
 ### 🚀 About Me
-I’m a Software Engineer focused on AI-first solutions. I help people build software products that creates real value and get to market fast.
+I’m a Software Engineer focused on AI-first solutions. I help people build software products that solve real problems with an AI approach.
 
 ### Skills
 
