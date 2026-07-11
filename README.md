@@ -15,7 +15,7 @@
 
 
 ### 🚀 About Me
-I’m a Software Engineer focused on AI-first solutions. I help people build software products that solve real problems with an AI approach.
+Software Engineer con trayectoria en tecnología, enfocado en resolver necesidades reales de negocio. Especializado en desarrollo de software enterprise, con criterio técnico y visión de producto. Alineado con la evolución del desarrollo asistido por IA, agentes de software y vibe coding para acelerar soluciones, explorar y validar ideas, automatizar procesos y generar mayor valor para el cliente final.
 
 ### Skills
 
